@@ -1,0 +1,3 @@
+# mark large files as binary to prevent long running diffs
+lib/** binary
+dist/** binary
